@@ -12,3 +12,4 @@ installing RabbitMQ service:
   step4 service rabbitmq-server stop
   step5 service rabbitma-server start
   step6 service rabbitma-server status
+4>try login again(http://192.168.148.128:15672/#/),my local ubuntu ip is '192.168.148.128' you can replace it by yourselves,default port is 15672
